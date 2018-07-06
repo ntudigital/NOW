@@ -1,0 +1,59 @@
+body {
+font-family: Verdana, Helvetica, Arial, sans-serif;
+font-size: 16px;
+margin: 0 auto; 
+padding: 0; 
+text-align: left;}
+
+h1 {
+margin: -32px -32px 15px -26px;
+padding: 13px 22px 6px 25px;
+font-style: normal;
+font-weight: normal;
+font-size: 2.25em;
+color: #FFFFFF;
+background-color: #004877;}
+
+h2 {
+font-size: 1.6em;
+font-weight: normal;
+color: #004877;
+margin: 1.5em 0em 0.5em 0em;
+padding: 0px 0px 2px 0px;
+border-bottom: 1px solid; 
+border-color: #004877;}
+
+h3 {
+font-size: 1.25em;
+color: #004877;
+margin: 1.5em 0em 0.7em 0em;}
+
+h4 {
+font-size: 1em;
+color: #004877;
+margin: 1.5em 0em 0.85em 0em;}
+
+h5 {
+font-size: 1em;
+color: #004877;
+font-weight: normal;
+margin: 1.5em 0em 0.85em 0em;}
+
+h6 {
+font-size: 1em;
+font-weight: normal;
+font-style: italic;
+color: #004877;
+margin: 0em 0em 0.85em 0em;}
+
+/*Paragraph styles*/
+
+p { 
+text-indent: 0; 
+line-height: 1.5em;
+margin: 1em 0px 1em 0px;}
+.lead {
+font-size: 16px;
+font-weight: 300;}
+.grey-panel {width: 100%; background-color: #dddddd; padding: 15px;}
+.btn-light {color: #212529;background-color: #ffffff;border-color: #ffffff;}
