@@ -8,3 +8,6 @@ If you would like to use Github as a CDN (Content Delivery Network) you need to 
 4. Open https://rawgit.com/ 
 5. Paste the URL in Rawgit
 6. Use the 'Use this URL in production' entry as your CDN link
+
+
+The URL for digital induction.css is https://cdn.rawgit.com/ntudigital/NOW/master/digital_induction.css
