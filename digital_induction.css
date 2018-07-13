@@ -12,30 +12,33 @@ font-style: normal;
 font-weight: normal;
 font-size: 2.25em;
 color: #FFFFFF;
-background-color: #004877;}
+background-color: #ed1266;}
 
 h2 {
 font-size: 1.6em;
 font-weight: normal;
-color: #004877;
+color: #ffffff;
+background-color: #000000;
 margin: 1.5em 0em 0.5em 0em;
 padding: 0px 0px 2px 0px;
 border-bottom: 1px solid; 
-border-color: #004877;}
+border-color: #ed1266;}
 
 h3 {
 font-size: 1.25em;
-color: #004877;
+color: #ffffff;
+background-color: #000000;
 margin: 1.5em 0em 0.7em 0em;}
 
 h4 {
 font-size: 1em;
-color: #004877;
+font-style: bold;
+color: #000000;
 margin: 1.5em 0em 0.85em 0em;}
 
 h5 {
 font-size: 1em;
-color: #004877;
+color: #000000;
 font-weight: normal;
 margin: 1.5em 0em 0.85em 0em;}
 
@@ -43,7 +46,7 @@ h6 {
 font-size: 1em;
 font-weight: normal;
 font-style: italic;
-color: #004877;
+color: #000000;
 margin: 0em 0em 0.85em 0em;}
 
 /*Paragraph styles*/
@@ -57,3 +60,7 @@ font-size: 16px;
 font-weight: 300;}
 .grey-panel {width: 100%; background-color: #dddddd; padding: 15px;}
 .btn-light {color: #212529;background-color: #ffffff;border-color: #ffffff;}
+
+a {
+  color: #ed1266;
+}
