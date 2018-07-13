@@ -65,3 +65,16 @@ font-weight: 300;}
 a {
   color: #ed1266;
 }
+
+div.btn-group * i.fa-circle {
+  color: #fff; }
+
+div.btn-group * i.fa-arrow-left,
+div.btn-group * i.fa-arrow-right,
+div.btn-group * i.fa-home {
+  color: #ed1266;
+}
+
+.btn-group * a {
+  margin-left: 5px;
+}
