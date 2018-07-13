@@ -66,6 +66,10 @@ a {
   color: #ed1266;
 }
 
+div.btn-group {
+  padding: 10px;
+}
+
 div.btn-group * i.fa-circle {
   color: #fff; }
 
@@ -77,6 +81,5 @@ div.btn-group * i.fa-home {
 
 .btn-group * a {
   margin-left: 5px;
-  padding: 10px;
 }
 
