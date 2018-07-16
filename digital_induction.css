@@ -76,11 +76,14 @@ div.btn-group {
 div.btn-group * i.fa-circle {
   color: #fff; }
 
+
+/*
 div.btn-group * i.fa-arrow-left,
 div.btn-group * i.fa-arrow-right,
-div.btn-group * i.fa-home {
+div.btn-group * i.fa-check {
   color: #ed1266;
 }
+*/
 
 .btn-group * a {
   margin-left: 5px;
