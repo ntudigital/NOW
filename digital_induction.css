@@ -88,6 +88,8 @@ a:visited {color: #999;}
 
 a:hover {color: #999;}
 
+a:active {color: #999;}
+
 div.btn-group {padding: 10px;}
 
 div.btn-group * i.fa-circle {color: #fff; }
