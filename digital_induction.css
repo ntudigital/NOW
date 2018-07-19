@@ -80,21 +80,15 @@ margin: 1em 0px 1em 0px;}
 
 .btn-light {color: #212529;background-color: #ffffff;border-color: #ffffff;}
 
-a {
-  color: #ed1266;
-}
+a:link {color: #ed1266;}
 
-a:hover {
-    color: #dc3545;
-}
+a:visited {color: #999;}
 
-div.btn-group {
-  padding: 10px;
-}
+a:hover {color: #999;}
 
-div.btn-group * i.fa-circle {
-  color: #fff; }
+div.btn-group {padding: 10px;}
 
+div.btn-group * i.fa-circle {color: #fff; }
 
 /*
 div.btn-group * i.fa-arrow-left,
@@ -104,7 +98,5 @@ div.btn-group * i.fa-check {
 }
 */
 
-.btn-group * a {
-  margin-left: 5px;
-}
+.btn-group * a {margin-left: 5px;}
 
