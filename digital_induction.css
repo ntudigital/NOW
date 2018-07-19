@@ -75,14 +75,17 @@ p {
 text-indent: 0; 
 line-height: 1.5em;
 margin: 1em 0px 1em 0px;}
-.lead {
-font-size: 16px;
-font-weight: 300;}
+
 .grey-panel {width: 100%; background-color: #dddddd; padding: 15px;}
+
 .btn-light {color: #212529;background-color: #ffffff;border-color: #ffffff;}
 
 a {
   color: #ed1266;
+}
+
+a:hover {
+    color: #dc3545;
 }
 
 div.btn-group {
