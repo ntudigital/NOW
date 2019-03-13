@@ -1,5 +1,5 @@
 // get all of our list items
-var itemsToFilter = document.querySelectorAll("#itemsToFilter li");
+var itemsToFilter = document.querySelectorAll("#itemsToFilter div");
   
 //setup click event handlers on our checkboxes
 var checkBoxes = document.querySelectorAll(".filterSection li input");
