@@ -98,3 +98,16 @@ div.btn-group * i.fa-check {
 
 .btn-group * a {margin-left: 5px;}
 
+/* to add list filter functionality */
+.filterDiv {
+  display: none;
+  padding: 10px 0px;
+  border-bottom-color: #dee2e6;
+  border-bottom-width: thin;
+  border-bottom-style: solid;
+}
+
+.show {
+  display: flex;
+}
+
