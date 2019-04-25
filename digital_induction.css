@@ -76,7 +76,12 @@ text-indent: 0;
 line-height: 1.5em;
 margin: 1em 0px 1em 0px;}
 
-.grey-panel {width: 100%; background-color: #dddddd; padding: 15px;}
+.grey-panel {
+    width: 100%; 
+    background-color: #dddddd; 
+    padding: 15px;
+    margin-top: -1em;
+}
 
 .btn-light {color: #212529;background-color: #ffffff;border-color: #ffffff;}
 
@@ -87,6 +92,10 @@ a:hover {color: #999;}
 div.btn-group {padding: 10px;}
 
 div.btn-group * i.fa-circle {color: #fff; }
+
+.footer-icon-bar {
+    background-color: #000;
+}
 
 /*
 div.btn-group * i.fa-arrow-left,
