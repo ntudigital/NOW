@@ -1,0 +1,44 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+<head lang="en">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Bootstrap template page</title>
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" integrity="sha384-WskhaSGFgHYWDcbwN70/dfYBj47jz9qbsMId/iRN3ewGhXQFZCSftd1LZCfmhktB" crossorigin="anonymous">
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp" crossorigin="anonymous">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/ntudigital/NOW/digital_induction.css" crossorigin="anonymous">
+</head>
+<body>
+<div class="container">
+<h1>NOW as a Learning and Teaching tool</h1>
+<div id="body">
+<div class="btn-group float-right" role="group" aria-label="Activity navigation"><a role="button" href="/d2l/le/content/130812/viewContent/3026093/View" target="_parent" title="Go to previous activity" rel="noopener noreferrer"><span class="fa-stack fa-x"> <i class="fas fa-circle fa-stack-2x"></i> <i class="fas fa-arrow-left fa-stack-1x"></i></span></a> <a role="button" href="/d2l/le/content/130812/viewContent/3018950/View" target="_parent" title="Go back to list of activities" rel="noopener noreferrer"><span class="fa-stack fa-x"> <i class="fas fa-circle fa-stack-2x"></i> <i class="fas fa-list-ul fa-stack-1x"></i></span></a><a role="button" href="/d2l/le/content/130812/viewContent/3005489/View" target="_blank" title="Induction help" rel="noopener noreferrer"><span class="fa-stack"> <i class="fas fa-circle fa-stack-2x"></i><i class="fas fa-question fa-stack-1x"></i></span></a> <a role="button" href="/d2l/le/content/130812/viewContent/3022044/View" target="_parent" title="Go to next activity"><span class="fa-stack fa-x"> <i class="fas fa-circle fa-stack-2x"></i> <i class="fas fa-arrow-right fa-stack-1x"></i></span></a></div>
+<h2>Overview</h2>
+<p class="lead">NOW is the name of NTU's virtual learning environment. It provides online spaces for students and academic staff to share files, communicate and assess learning.</p>
+<h3>Learning Outcomes</h3>
+<ol>
+<li>Recall what NOW can be used for</li>
+<li>Recall the minimum learning room specification</li>
+</ol>
+<h3><i class="fas fa-info-circle fa-fw" aria-hidden="true"></i>Information</h3>
+<div class="grey-panel">
+<div class="row">
+<div class="col-md-12">
+<p>Each year, every module has a learning room created for it (sometimes more than one if the module runs multiple times throughout the year). Students are automatically added to the appropriate learning rooms upon enrolment.</p>
+<p>NOW learning rooms provide spaces to share files, access lecture capture recordings, link to resources, communication and collaboration tools, and to manage formative and summative assessments. Further information about these can be found on <a href="/d2l/le/content/207307/Home?itemIdentifier=D2L.LE.Content.ContentObject.ModuleCO-1070473" target="_parent">NOW Central</a>. Organisational Development also offer a range of NOW development sessions, including two introductory sessions (<a href="https://myhr.ntu.ac.uk/ce0290li_ess/ess/index.html#/summary/careerdev/activity%3ba%3dT/4389700jp1" target="_blank" rel="noopener">NOW Induction 1 - Using and Navigating NOW</a>, and <a href="https://myhr.ntu.ac.uk/ce0290li_ess/ess/index.html#/summary/careerdev/activity%3ba%3dT/8594550jp1" target="_blank" rel="noopener">NOW Induction 2 - Adding and managing content with NOW</a>), which can be booked through <a href="https://myhr.ntu.ac.uk" target="_blank" rel="noopener">MyHR</a>.</p>
+<p>In order to ensure a high quality, consistent experience for staff and students using NOW, the university has published minimum requirements for the use of NOW as part of the Quality Handbook. In particular, supplement <a href="https://www4.ntu.ac.uk/adq/document_uploads/quality_handbook/148465.pdf" target="_blank" rel="noopener">12B 'Requirements for the use of digital technologies in learning, teaching, and assessment'</a> details what is expected from each module learning room.</p>
+<p>The Module Leader has overall responsibility for the running of the module learning room.&nbsp; If you are a Module Leader, you may benefit from attending the <a href="https://myhr.ntu.ac.uk/ce0290li_ess/ess/index.html#/summary/careerdev/activity;a=T/342462030A" target="_blank" rel="noopener">NOW for Module Leaders</a> session bookable on MyHR.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="d-flex justify-content-between footer-icon-bar">
+<div class="btn-group float-left" role="group" aria-label="Activity navigation"><a role="button" href="/d2l/le/content/130812/viewContent/2549398/View" target="_parent" title="Go to the Digital Induction homepage"><span class="fa-stack"><i class="fas fa-circle fa-stack-2x"></i><i class="fas fa-home fa-stack-1x" data-fa-transform="down-6"></i></span></a><a role="button" href="/d2l/le/content/130812/viewContent/2558846/View" target="_parent" title="Go to the First Week Overview"><span class="fa-stack"> <i class="fas fa-circle fa-stack-2x"></i><i class="far fa-calendar-alt fa-stack-1x"></i></span></a><a role="button" href="https://ntusurvey.onlinesurveys.ac.uk/digital-induction-feedback" target="_new" title="Go to our feedback form"><span class="fa-stack"> <i class="fas fa-circle fa-stack-2x"></i><i class="far fa-comment fa-stack-1x"></i></span></a></div>
+<div class="btn-group float-right" role="group" aria-label="Activity navigation"><a role="button" href="/d2l/le/content/130812/viewContent/3026093/View" target="_parent" title="Go to previous activity" rel="noopener noreferrer"><span class="fa-stack fa-x"> <i class="fas fa-circle fa-stack-2x"></i> <i class="fas fa-arrow-left fa-stack-1x"></i></span></a> <a role="button" href="/d2l/le/content/130812/viewContent/3018950/View" target="_parent" title="Go back to list of activities" rel="noopener noreferrer"><span class="fa-stack fa-x"> <i class="fas fa-circle fa-stack-2x"></i> <i class="fas fa-list-ul fa-stack-1x"></i></span></a><a role="button" href="/d2l/le/content/130812/viewContent/3005489/View" target="_blank" title="Induction help" rel="noopener noreferrer"><span class="fa-stack"> <i class="fas fa-circle fa-stack-2x"></i><i class="fas fa-question fa-stack-1x"></i></span></a> <a role="button" href="/d2l/le/content/130812/viewContent/3022044/View" target="_parent" title="Go to next activity"><span class="fa-stack fa-x"> <i class="fas fa-circle fa-stack-2x"></i> <i class="fas fa-arrow-right fa-stack-1x"></i></span></a></div>
+</div>
+<p><small>&copy; Nottingham Trent University</small></p>
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js" integrity="sha384-smHYKdLADwkXOn1EmN1qk/HfnUcbVRZyYmZ4qpPea6sjB/pTJ0euyQp0Mk8ck+5T" crossorigin="anonymous"></script>
+</div>
+</body>
+</html>
