@@ -32,13 +32,13 @@ font-style: normal;
 font-weight: normal;
 font-size: 2.25em;
 color: #FFFFFF;
-background-color: #ed1266;}
+background-color: #9e043d;}
 
 h2 {
 font-size: 1.6em;
 font-weight: normal;
 color: #ffffff;
-background-color: #000000;
+background-color: #6f6258;
 margin: 1.5em 0em 0.5em 0em;
 padding: 10px;
 }
@@ -46,7 +46,7 @@ padding: 10px;
 h3 {
 font-size: 1.25em;
 color: #ffffff;
-background-color: #000000;
+background-color: #6f6258;
 margin: 1.5em 0em 0.7em 0em;
 padding: 10px;}
 
@@ -85,9 +85,9 @@ margin: 1em 0px 1em 0px;}
 
 .btn-light {color: #212529;background-color: #ffffff;border-color: #ffffff;}
 
-a {color: #ed1266;}
+a {color: #e6005b;}
 
-a:hover {color: #999;}
+a:hover {color: #9e043d;}
 
 div.btn-group {padding: 10px;}
 
